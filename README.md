@@ -21,7 +21,7 @@ Una aplicación simple de contador creada con **React Native** usando **Expo**. 
 
 ## 🖼️ Captura de pantalla
 
-![Captura de pantalla Counter App](/images/Captura2025-08-01.png)
+![Captura de pantalla Counter App](/image-git/Captura2025-08-01.png)
 
 ---
 
