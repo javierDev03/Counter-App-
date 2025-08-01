@@ -19,5 +19,10 @@ Una aplicación simple de contador creada con **React Native** usando **Expo**. 
 
 ---
 
-## 🧱 Estructura del Proyecto
+## 🖼️ Captura de pantalla
 
+![Captura de pantalla Counter App](assets/screenshots/Captura2025-08-01.png)
+
+---
+
+## 🧱 Estructura del Proyecto
